@@ -1,5 +1,17 @@
 .statsEntryWrapper {
+  margin: 2%;
+  
+}
+
+.formWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+form {
   display: flex;
   flex-direction: column;
-  
+  width: 25%;
+  padding: 20px;
 }

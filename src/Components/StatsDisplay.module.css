@@ -1,0 +1,10 @@
+.statsDisplayWrapper {
+  border: solid red;
+  height: 300px;
+}
+
+.statsDisplay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
